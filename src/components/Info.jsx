@@ -17,7 +17,7 @@ const Info = () =>
                     </p>
                 </div>
                 <div className="p-2">
-                    <h2 className="text-xl font-semibold text-center bg-gradient-to-r from-transparent from-1% via-stone-950 via-50% to-transparent to-99% p-2 mx-[30%] rounded-lg mt-6">Card Types</h2>
+                    <h2 id="card_types" className="text-xl font-semibold text-center bg-gradient-to-r from-transparent from-1% via-stone-950 via-50% to-transparent to-99% p-2 mx-[30%] rounded-lg mt-6">Card Types</h2>
                     <div className="lg:flex justify-center items-center">
                         <div className="pt-4 mx-auto lg:w-[40%] md:w-80">
                             <Cards/>
