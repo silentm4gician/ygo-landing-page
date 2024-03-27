@@ -38,8 +38,8 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
                     <div className="flex flex-shrink-0 items-center">
                     <img
                         className="h-6 w-auto"
-                        src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Konami_logo_red.svg/2560px-Konami_logo_red.svg.png'
-                        alt="yugioh logo"
+                        src='https://logonoid.com/images/konami-logo.png'
+                        alt="konami logo"
                     />
                     </div>
                     <div className="hidden sm:ml-6 sm:block">
@@ -69,7 +69,7 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
                         <span className="sr-only">Open user menu</span>
                         <img
                             className="h-8 w-8 rounded-full"
-                            src="https://www.seekpng.com/png/full/188-1889221_png-black-and-white-edit-of-yami-yugi.png"
+                            src="https://pbs.twimg.com/media/Er5ldc6VQAEKfVk.jpg"
                             alt="user img"
                         />
                         </Menu.Button>

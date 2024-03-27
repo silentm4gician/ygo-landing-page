@@ -5,8 +5,8 @@ const Info = () =>
 {
     return (
             <div className="w-4/6">
-                <div className="flex justify-center p-10">
-                    <img style={{maxWidth:'300px',minWidth:'100px'}} src="https://www.seekpng.com/png/full/72-724013_yu-gi-oh-day-tournament-yugioh-trading-card.png" alt="yugioh logo" />
+                <div className="flex justify-center">
+                    <img style={{maxWidth:'300px',minWidth:'100px'}} src="https://www.yugioh-card.com/en/wp-content/uploads/2020/09/TCG_logo_500x500.png" alt="yugioh logo" />
                 </div>
                 <div className="p-10 bg-stone-900 rounded-lg max-w-fit">
                     <h2 className="text-2xl font-semibold ">
